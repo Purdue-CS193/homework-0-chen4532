@@ -1,7 +1,8 @@
 # Evan's First CS193 Homework
-- Taught by really cool undergraduate students
+- Taught by cool undergrad students
 - No tests
 - No pressure
+- :))
 
 ## Welcome to GitHub Pages
 
